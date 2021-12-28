@@ -21,6 +21,7 @@
     "@lukeed/uuid": "^2.0.0",
     "cookie": "^0.4.1",
     "svelte-cubed": "^0.2.1",
-    "three": "^0.136.0"
+    "three": "^0.136.0",
+    "three.interactive": "^1.1.0"
   }
 }
